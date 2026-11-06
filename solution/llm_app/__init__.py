@@ -1,0 +1,1 @@
+"""Complete reference FastAPI application."""

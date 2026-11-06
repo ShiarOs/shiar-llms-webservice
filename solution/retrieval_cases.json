@@ -1,0 +1,8 @@
+[
+  {"question": "How can climate change affect agriculture?", "expected_pages": [3, 4]},
+  {"question": "Why does sea level rise as the climate warms?", "expected_pages": [3, 4]},
+  {"question": "How do greenhouse gases affect the climate?", "expected_pages": [1]},
+  {"question": "Who won the 2026 football World Cup?", "expected_pages": []},
+  {"question": "How do I reset my bank account password?", "expected_pages": []},
+  {"question": "What is the current price of Bitcoin?", "expected_pages": []}
+]
