@@ -20,5 +20,7 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
+private-learning/
+
 llm_app/*_climate_db/
 solution/*_climate_db/
